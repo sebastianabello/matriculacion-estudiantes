@@ -1,6 +1,11 @@
-# Título de Ejemplo
+# Matriculación
 
-![Descripción de la imagen](url_de_la_imagen)
+![Descripción de la imagen](./src/main/assets/matricula.png)
 
-**Definición:** 
-Actividad sobre el modelo de matriculacion de un estudiante 
+- Se simula el proceso de matriculación de un estudiante en una universidad.
+- Información personal del estudiante.
+- Información de la carrera.
+- Información de la asignatura.
+- Información de calificaión.
+- Informacion expediente académico.
+
